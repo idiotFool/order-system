@@ -1,0 +1,22 @@
+# Java / Spring Boot
+**/target/
+**/.idea/
+**/*.iml
+
+# Next.js
+**/node_modules/
+**/.next/
+**/out/
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Local databases
+**/*.mv.db
+**/*.trace.db
+
+# OS files
+.DS_Store
+Thumbs.db
